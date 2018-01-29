@@ -1,0 +1,26 @@
+ACTOR: rika
+DESCRIPTION: shiawase
+TENSE: IS
+
+CONNECTOR: Therefore
+ACTOR: I/me
+DESCRIPTION: kanashii
+TENSE: WAS
+
+ACTOR: rika
+TO: kurasu
+ACTION: ikI
+TENSE: VERB
+
+ACTOR: rika
+OBJECT: ringo
+ACTION: tabE
+TENSE: VERBPAST
+
+CONNECTOR: However
+ACTOR: I/me
+OBJECT: okane
+TO: he/him
+ACTION: agE
+TENSE: VERBPASTNEG
+
